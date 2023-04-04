@@ -10,9 +10,7 @@ function Header(props) {
   return (
     <header className="bg-sky-900">
       <div className="container mx-10 flex justify-between items-center py-4">
-        <a className="text-gray-200 text-2xl font-bold" href="/">
           Logan Bissette
-        </a>
         <Navigation links={links} />
       </div>
     </header>

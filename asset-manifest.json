@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0e4fdbed.css",
+    "main.js": "/static/js/main.f4be290a.js",
+    "static/js/787.a2cb61a6.chunk.js": "/static/js/787.a2cb61a6.chunk.js",
+    "static/media/Hydro-Home.png": "/static/media/Hydro-Home.45c4419465bf67c553fb.png",
+    "static/media/Slashed-And-Smashed.png": "/static/media/Slashed-And-Smashed.96844c97adff179b209c.png",
+    "static/media/Employee-Tracker.png": "/static/media/Employee-Tracker.6b9273c2ab6c9f95e902.png",
+    "static/media/Readme-Generator.png": "/static/media/Readme-Generator.43acce46e8412a125612.png",
+    "static/media/Score-Social.png": "/static/media/Score-Social.9c5ad7182c7095025493.png",
+    "static/media/Weather-Dashboard.png": "/static/media/Weather-Dashboard.864c3e200cc04b21c9c6.png",
+    "static/media/Bissette-Coding-Resume.pdf": "/static/media/Bissette-Coding-Resume.a4a3788ba99a2ae02da6.pdf",
+    "static/media/logan-head.jpg": "/static/media/logan-head.ef3fb55fcefa50c3b56b.jpg",
+    "index.html": "/index.html",
+    "main.0e4fdbed.css.map": "/static/css/main.0e4fdbed.css.map",
+    "main.f4be290a.js.map": "/static/js/main.f4be290a.js.map",
+    "787.a2cb61a6.chunk.js.map": "/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e4fdbed.css",
+    "static/js/main.f4be290a.js"
+  ]
+}
